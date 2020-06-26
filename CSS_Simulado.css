@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 18px;
+}
+
+dt{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div{
+    text-align:center;
+    font-weight:bolder;
+}
+
+#Cabecalho{
+    background-color: black;
+    height:30%;
+    border-style: solid;
+    border-color: blue;
+}
+
+#Rodapé{
+    background-color: black;
+    height:13%;
+    clear:both;
+    border-style: solid;
+    border-color: blue;
+}
+
+#Questões{
+    background-color: black;
+    border-color: blue;
+    border-style: solid;
+}
+
